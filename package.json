@@ -1,0 +1,15 @@
+{
+  "name": "mcp_trail",
+  "version": "1.0.0",
+  "description": "A CLI tool for counting words in files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
